@@ -27,5 +27,5 @@ def update_counting_hash(hash, key)
    puts hash[key] += 1
    puts hash 
 end 
-hash = { key => 1 }
+hash = { }
 end 
