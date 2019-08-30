@@ -31,3 +31,4 @@ else
 hash[key] += 1
 hash 
 end
+end 
