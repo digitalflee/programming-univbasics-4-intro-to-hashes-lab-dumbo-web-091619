@@ -26,5 +26,5 @@ def update_counting_hash(hash, key)
   if hash[key]
     hash[key] += 1 
 end 
-hash = { hash[key].object_id }
+hash 
 end 
