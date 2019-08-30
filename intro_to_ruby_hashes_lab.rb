@@ -29,4 +29,5 @@ else
   hash = { key => 1 }
 end 
 hash 
+hash[key] += 1
 end
