@@ -29,4 +29,5 @@ def update_counting_hash(hash, key)
 elsif hash[key] == nil  
   hash[key => 1]
 end
+hash 
 end 
